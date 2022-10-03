@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@enable3d/ammo-on-nodejs": "^0.25.3",
+    "@enable3d/ammo-physics": "^0.25.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.63",
+    "typescript": "^4.8.4"
+  },
+  "license": "MIT"
+}
